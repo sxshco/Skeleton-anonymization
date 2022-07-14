@@ -11,5 +11,5 @@ graph LR;
     
 ```
 
-##Dataset
-###NTU RGB+D
+## Dataset: NTU RGB+D
+    "NTU RGB+D" is a large-scale dataset for human action recognition.
